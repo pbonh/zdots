@@ -12,8 +12,5 @@ include "/usr/share/zirconium/zdots/system/niri/zirconium.kdl"
 // include DankMaterialShell stuff
 include "dms.kdl"
 
-// include global overrides
-include optional=true "/etc/niri/local.kdl"
-
 // include local user overrides
 include optional=true "local.kdl"

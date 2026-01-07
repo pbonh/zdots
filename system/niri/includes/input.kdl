@@ -17,3 +17,7 @@ input {
 
     trackpoint {}
 }
+
+clipboard {
+    disable-primary
+}
